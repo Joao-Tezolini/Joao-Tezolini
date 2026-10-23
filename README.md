@@ -1,16 +1,22 @@
-## Hi there 👋
+# E aí!!
 
-<!--
-**Joao-Tezolini/Joao-Tezolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Me chamo João, atualmente sou estudante da CESAR School no curso de ADS.
 
-Here are some ideas to get you started:
+ Sou aspirante a desenvolvedor backend - tenho proficiência em C, Python e uso de IDEs variadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tenho facilidade no uso de Figma e Canvas.
+
+ Sei trabalhar com ferramentas como Jira e Trello.
+
+ Esse repositório serve para documentar minha trajetória estudantil - o link para o meu repositório com projetos pessoais que refletem minhas metas e ambições estará linkado abaixo!
+
+ # Linguagens e Ferramentas
+ • C, Python  
+ • Figma, Canvas  
+ • Jira, Trello  
+
+ # Sobre Mim
+ • Gosto de construir projetos que causem algum tipo de impacto na minha vida ou na de pessoas que eu conheça.  
+ • Tenho preferência por projetos simples mas que não faça a mesma função de algo que já existe de forma inferior.  
+ • Gosto de estudar idiomas.  
+ 
